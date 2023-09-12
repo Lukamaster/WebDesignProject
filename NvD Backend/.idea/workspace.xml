@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cb1c4a75-2672-4ae1-9792-99c5ad9ed90c" name="Changes" comment="Added controller methods for add/edit products" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="isToolWindowVisible" value="false" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2S4viEdpHa2V24dYQTWTXcmSAlj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Notification.DisplayName-DoNotAsk-Vcs Important Messages": "VCS important messages",
+    "Notification.DoNotAsk-Vcs Important Messages": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "F:/DavincisVessels Source/davincisvessels-1.12-6.340-full.jar.src",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Facets",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.38390803",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "spring.configuration.checksum": "368ae31c908dc3805beb2d78f457d608",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql",
+      "h2"
+    ]
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="WebProgrammingBackend" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="smartbusinesscard" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.webprogramming.backend.WebProgrammingBackend" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb1c4a75-2672-4ae1-9792-99c5ad9ed90c" name="Changes" comment="" />
+      <created>1688418792665</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688418792665</updated>
+      <workItem from="1688418807842" duration="2017000" />
+      <workItem from="1688570244276" duration="26878000" />
+      <workItem from="1688667212323" duration="5734000" />
+      <workItem from="1688737534728" duration="1414000" />
+      <workItem from="1688747159377" duration="5030000" />
+      <workItem from="1688923330600" duration="991000" />
+      <workItem from="1689033546149" duration="620000" />
+      <workItem from="1689258589008" duration="1432000" />
+      <workItem from="1689770657636" duration="14412000" />
+      <workItem from="1689859793237" duration="2662000" />
+      <workItem from="1689961638243" duration="2613000" />
+      <workItem from="1689984480552" duration="3970000" />
+      <workItem from="1690041053354" duration="1982000" />
+      <workItem from="1690294583050" duration="5534000" />
+      <workItem from="1690418972246" duration="562000" />
+      <workItem from="1691075455185" duration="3042000" />
+      <workItem from="1692107834808" duration="1203000" />
+      <workItem from="1692110892686" duration="816000" />
+      <workItem from="1692172823330" duration="899000" />
+      <workItem from="1692543901616" duration="606000" />
+      <workItem from="1694437292921" duration="591000" />
+      <workItem from="1694441250568" duration="1327000" />
+    </task>
+    <task id="LOCAL-00001" summary="Refactored Code">
+      <option name="closed" value="true" />
+      <created>1688420133766</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1688420133766</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added Product and category entities and Dto. Added method to create stripe product and price object to use to forward to payment session.">
+      <option name="closed" value="true" />
+      <created>1688582047435</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1688582047435</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Changed working DB to local mySQL server for now. SecurityConfig updated to allow payment mappings, payment session working.">
+      <option name="closed" value="true" />
+      <created>1688597759382</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1688597759382</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added category service and controller">
+      <option name="closed" value="true" />
+      <created>1688677452121</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1688677452121</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added CrossOrigin headers">
+      <option name="closed" value="true" />
+      <created>1689792444286</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1689792444286</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added http cors">
+      <option name="closed" value="true" />
+      <created>1689961808524</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1689961808524</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added controller methods for add/edit products">
+      <option name="closed" value="true" />
+      <created>1690303010376</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1690303010376</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Refactored Code" />
+    <MESSAGE value="Added Product and category entities and Dto. Added method to create stripe product and price object to use to forward to payment session." />
+    <MESSAGE value="Changed working DB to local mySQL server for now. SecurityConfig updated to allow payment mappings, payment session working." />
+    <MESSAGE value="Added category service and controller" />
+    <MESSAGE value="Added CrossOrigin headers" />
+    <MESSAGE value="Added http cors" />
+    <MESSAGE value="Added controller methods for add/edit products" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added controller methods for add/edit products" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.NoSuchElementException" package="java.util" />
+          <option name="timeStamp" value="12" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IllegalArgumentException" package="java.lang" />
+          <option name="timeStamp" value="13" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="listLineItem" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/WebProgrammingBackend$WebProgrammingBackend.ic" NAME="WebProgrammingBackend Coverage Results" MODIFIED="1688419909656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.webprogramming.backend.*</FILTER>
+    </SUITE>
+  </component>
+</project>

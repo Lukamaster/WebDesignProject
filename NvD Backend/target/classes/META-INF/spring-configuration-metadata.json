@@ -1,0 +1,77 @@
+{
+  "groups": [
+    {
+      "name": "jwt.security",
+      "type": "com.webprogramming.backend.config.jwt.JwtSecurityConfig",
+      "sourceType": "com.webprogramming.backend.config.jwt.JwtSecurityConfig"
+    },
+    {
+      "name": "purchase",
+      "type": "com.webprogramming.backend.config.PurchaseConfig",
+      "sourceType": "com.webprogramming.backend.config.PurchaseConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "jwt.security.authorize-mode",
+      "type": "java.lang.String",
+      "sourceType": "com.webprogramming.backend.config.jwt.JwtSecurityConfig"
+    },
+    {
+      "name": "jwt.security.enabled",
+      "type": "java.lang.Boolean",
+      "sourceType": "com.webprogramming.backend.config.jwt.JwtSecurityConfig"
+    },
+    {
+      "name": "jwt.security.refresh-token-expiration",
+      "type": "java.lang.Long",
+      "sourceType": "com.webprogramming.backend.config.jwt.JwtSecurityConfig"
+    },
+    {
+      "name": "jwt.security.secret-key",
+      "type": "java.lang.String",
+      "sourceType": "com.webprogramming.backend.config.jwt.JwtSecurityConfig"
+    },
+    {
+      "name": "jwt.security.token-expiration",
+      "type": "java.lang.Long",
+      "sourceType": "com.webprogramming.backend.config.jwt.JwtSecurityConfig"
+    },
+    {
+      "name": "purchase.base-url",
+      "type": "java.lang.String",
+      "sourceType": "com.webprogramming.backend.config.PurchaseConfig"
+    },
+    {
+      "name": "purchase.brand",
+      "type": "java.lang.String",
+      "sourceType": "com.webprogramming.backend.config.PurchaseConfig"
+    },
+    {
+      "name": "purchase.card-token",
+      "type": "java.lang.String",
+      "sourceType": "com.webprogramming.backend.config.PurchaseConfig"
+    },
+    {
+      "name": "purchase.credit-card-number",
+      "type": "java.lang.Long",
+      "sourceType": "com.webprogramming.backend.config.PurchaseConfig"
+    },
+    {
+      "name": "purchase.cvc",
+      "type": "java.lang.Integer",
+      "sourceType": "com.webprogramming.backend.config.PurchaseConfig"
+    },
+    {
+      "name": "purchase.publishable-key",
+      "type": "java.lang.String",
+      "sourceType": "com.webprogramming.backend.config.PurchaseConfig"
+    },
+    {
+      "name": "purchase.secret-api-key",
+      "type": "java.lang.String",
+      "sourceType": "com.webprogramming.backend.config.PurchaseConfig"
+    }
+  ],
+  "hints": []
+}
